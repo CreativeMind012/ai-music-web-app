@@ -74,7 +74,7 @@ function draw()
 		{
 			song1.play();
 			song1_status = song1.isPlaying();
-			document.getElementById("song").innerHTML = "Song Playing - Avengers Theme Song"
+			document.getElementById("song").innerHTML = "Song Playing - Harry Potter Theme Song"
 		}
 	}
 	if(scoreLeftWrist > 0.2)
@@ -88,7 +88,7 @@ function draw()
 		{
 			song2.play();
 			song2_status = song2.isPlaying();
-			document.getElementById("song").innerHTML = "Song Playing - Harry Potter Theme Song"
+			document.getElementById("song").innerHTML = "Song Playing - Avengers Theme Song"
 		}
 	}
 	
